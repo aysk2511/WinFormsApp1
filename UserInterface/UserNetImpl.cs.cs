@@ -12,6 +12,8 @@ namespace WinFormsApp1.UserInterface
         public UserNetImpl() 
         {
             MessageBox.Show("UserNetImpl created");
+            MessageBox.Show("UserNetImpl created");
+
         }
     }
 }
