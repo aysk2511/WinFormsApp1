@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace WinFormsApp1.UserInterface
 {
     interface IUserNet
-    {
+    {        
+
     }
 }

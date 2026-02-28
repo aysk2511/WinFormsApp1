@@ -5,12 +5,6 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
-            this.BackColor = Color.Red;
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -9,5 +9,9 @@ namespace WinFormsApp1.UserInterface
     class UserNetImpl:IUserNet
     {
 
+        public UserNetImpl() 
+        {
+            MessageBox.Show("UserNetImpl created");
+        }
     }
 }
